@@ -43,5 +43,5 @@ Hi :octocat:, my name is Agil Fajar Dwi Prasetyo, I'm a Beginner Web Developer a
 
 <br />
 
-![Agellls github stats](https://github-readme-stats.vercel.app/api?username=Agellls&show_icons=true&show_border=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agellls&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Agellls github stats](https://github-readme-stats.vercel.app/api?username=Agellls&show_icons=true&hide_border=true&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agellls&layout=compact&hide_border=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
