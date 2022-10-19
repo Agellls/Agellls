@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Agellls/" target="_blank" rel="noreferrer"><img src="https://github.com/Agellls/Agellls/blob/master/images/mybanner.png?raw=true" alt="my banner" width="1100px" height="auto"></a>
+  <a href="https://github.com/Agellls/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="my banner" width="300px" height="auto"></a>
 </p>
 
 ### Hello 👋🏽, I'm [Agellls](https://github.com/Agellls)
