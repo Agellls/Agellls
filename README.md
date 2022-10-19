@@ -42,3 +42,5 @@ Hi :octocat:, my name is Agil Fajar Dwi Prasetyo, I'm a Beginner Web Developer a
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></kbd>
 
 <br />
+
+![Agellls github stats](https://github-readme-stats.vercel.app/api?username=Agellls&show_icons=true&hide_border=true&theme=radical)
