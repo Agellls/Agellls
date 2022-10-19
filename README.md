@@ -1,4 +1,8 @@
-### Hello 👋🏽, I'm [Agil](https://github.com/Agellls)
+<p align="center">
+  <a href="https://github.com/Agellls/" target="_blank" rel="noreferrer"><img src="https://github.com/Agellls/Agellls/blob/master/images/mybanner.png?raw=true" alt="my banner" width="1100px" height="auto"></a>
+</p>
+
+### Hello 👋🏽, I'm [Agellls](https://github.com/Agellls)
 
 <a href="https://t.me/Agellls">
   <img align="left" alt="Agil's Telegram" width="22px" src="https://simpleicons.vercel.app/telegram/329ed8" />
