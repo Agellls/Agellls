@@ -1,6 +1,8 @@
-<p align="left">
-  <a href="https://github.com/Agellls/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="my banner" width="200px" height="auto"></a>
-</p>
+// <p align="left">
+//  <a href="https://github.com/Agellls/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="my banner" width="200px" height="auto"></a>
+// </p>
+
+![snake gif](https://github.com/TaimoorAleem/TaimoorAleem/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### Hello 👋🏽, I'm [Agellls](https://github.com/Agellls)
 
