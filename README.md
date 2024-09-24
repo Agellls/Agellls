@@ -1,4 +1,4 @@
-![snake gif](https://github.com/TaimoorAleem/TaimoorAleem/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Agellls/Agellls/blob/output/github-contribution-grid-snake.svg)
 
 ### Hello 👋🏽, I'm [Agellls](https://github.com/Agellls)
 
