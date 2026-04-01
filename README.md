@@ -19,19 +19,22 @@
 <br />
 <br />
 
-Hi :octocat:, my name is Agil Fajar Dwi Prasetyo, I'm a Beginner Web Developer and Mobile Developer from Indonesia 🇮🇩, I'm currently trying to become a Professional Mobile Developer with Dart Language, I enjoy Action Games, and Videography.
+Hi :octocat:, My name is Agil Fajar Dwi Prasetyo, I'm a Beginner Backend Developer and Mobile Developer from Indonesia 🇮🇩, I'm currently trying to become a Professional, I enjoy Action Games, and Videography.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Flutter and Laravel;
+- 🌱 I’m currently learning Flutter and N8N;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: agilfajar33@gmail.com;
 
 **Languages and Tools:**
+<a href="https://wakatime.com/@Agellls">
+  <img src="https://wakatime.com/share/@Agellls/82fba3bc-1f93-47ec-adfc-7d1296c93c58.svg" alt="Wakatime stats" />
+</a>
 
-<kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></kbd>
+<!-- <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></kbd>
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></kbd>
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></kbd>
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></kbd>
@@ -51,4 +54,4 @@ Hi :octocat:, my name is Agil Fajar Dwi Prasetyo, I'm a Beginner Web Developer a
   <img src="https://streak-stats.demolab.com?user=agellls&theme=aura&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=600&border=222222" alt="GitHub Streak" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agellls&layout=compact&hide_border=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agellls&layout=compact&hide_border=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats) -->
